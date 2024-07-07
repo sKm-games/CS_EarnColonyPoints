@@ -1,0 +1,51 @@
+{
+  "DebugModeSettings": {
+    "Description": "Show debug messages in chat, 1 = true, 0 = false",
+    "BoolValue": 1
+  },
+  "PointsOverflowSettings": {
+    "Description": "Allow points to overflow to the next day, 1 = true, 0 = false",
+    "BoolValue": 1
+  },
+  "ChatNotificationsSettings": {
+    "Description": "Allow Chat messages, 1 = true, 0 = false",
+    "BoolValue": 1
+  },
+  "RewardTriggerSettings": {
+    "Description": "When points should be rewarded, 0 = Reward each day, 1 = Reward on kill (might cause lag)",
+    "IntValue": 0
+  },
+  "BannerMaxDistanceSettings": {
+    "Description": "How close a zombie needs to be to a colony to register",
+    "IntValue": 300
+  },
+  "ZombieInfo": {
+    "Description": "Holds the points information for each zombie type",
+    "ZombiePointsInfo": [
+      {
+        "ZombieTypeName": "pipliz.monster25",
+        "PointValue": 1
+      },
+      {
+        "ZombieTypeName": "pipliz.monster100",
+        "PointValue": 4
+      },
+      {
+        "ZombieTypeName": "pipliz.monster250",
+        "PointValue": 10
+      },
+      {
+        "ZombieTypeName": "pipliz.monster1500",
+        "PointValue": 15
+      },
+      {
+        "ZombieTypeName": "pipliz.monster5000",
+        "PointValue": 20
+      },
+      {
+        "ZombieTypeName": "pipliz.monster25000",
+        "PointValue": 100
+      }
+    ]
+  }  
+}
