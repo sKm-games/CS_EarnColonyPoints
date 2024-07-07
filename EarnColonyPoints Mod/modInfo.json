@@ -1,0 +1,13 @@
+[
+  {
+    "name": "EarnColonyPoints",
+    "version": "0.0.0.1",
+    "description" : "Adds ways of earning Colony Points. Amount and other setting can be configured in the mod's config file (config.json).",
+    "enableddefault" : true,
+    "dllpath": "CS_EarnColonyPoints.dll",
+    "compatibleversions":
+    [
+      "0.9.0"
+    ]
+  }
+]

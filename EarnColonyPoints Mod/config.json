@@ -1,0 +1,21 @@
+{
+  "debugText": true,
+  "pointsOverflow": true,
+  "chatNotifications": true,
+  "rewardTrigger": 0,
+  "bannerDistance": 300,
+  
+  "newColonyPoints": 100,
+  "zombie01ID": "pipliz.monster25",
+  "zombie01Points": 1,
+  "zombie02ID": "pipliz.monster100",
+  "zombie02Points": 4,
+  "zombie03ID": "pipliz.monster250",
+  "zombie03Points": 10,
+  "zombie04ID": "pipliz.monster1500",
+  "zombie04Points": 15,
+  "zombie05ID": "pipliz.monster5000",
+  "zombie05Points": 20,
+  "zombie06ID": "pipliz.monster25000",
+  "zombie06Points": 100
+}
